@@ -1,0 +1,1 @@
+{"rustc":5512762318411013115,"target":2883207703083929515,"profile":2512772377220700060,"local":{"variant":"Precalculated","fields":["0.1.27"]},"features":"Some([\"bigint\", \"complex\", \"default\", \"rand\", \"rational\", \"rustc-serialize\"])","deps":[["rand v0.3.11",11759625445019850123],["rustc-serialize v0.3.16",5883947159932200946]]}
